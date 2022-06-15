@@ -2,7 +2,7 @@
     font-family: 'Caveat Brush', cursive;
 }
 .jumbo{
-    background-image: url('../IMG/jumbotronimg.jpg');
+    background-image: url('../IMG/jumbotronimg.JPG');
     background-repeat: repeat;
     background-size: 600px 400px;
     font-family: 'Nothing You Could Do', cursive;
@@ -34,19 +34,19 @@ p{
 }
 .parallax-1{
     /* The image used */
-    background-image: url('../IMG/parallax-beach.jpg');
+    background-image: url('../IMG/parallax-beach.JPG');
 }
 .parallax-2{
-    background-image: url('../IMG/parallax-cliffs.jpg');
+    background-image: url('../IMG/parallax-cliffs.JPG');
 }
 .parallax-3{
-    background-image: url('../IMG/parallax-tropics.jpg');
+    background-image: url('../IMG/parallax-tropics.JPG');
 }
 .parallax-4{
-    background-image: url('../IMG/parallax-flowers.jpg');
+    background-image: url('../IMG/parallax-flowers.JPG');
 }
 .parallax-5{
-    background-image: url('../IMG/parallax-palmtrees.jpg');
+    background-image: url('../IMG/parallax-palmtrees.JPG');
 }
 
 
