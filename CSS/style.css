@@ -1,0 +1,90 @@
+.nav-item{
+    font-family: 'Caveat Brush', cursive;
+}
+.jumbo{
+    background-image: url('./IMG/jumbotronimg.jpg');
+    background-repeat: repeat;
+    background-size: 600px 400px;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 70px;
+    letter-spacing: 3px;
+    height: 400px;
+}
+.btn{
+    font-family: 'Caveat Brush', cursive;
+}
+
+/* beginning of parallax */
+
+body, html {
+    height: 100%;
+} 
+p{
+    text-align: center;
+    padding: 20px;
+    color: antiquewhite;
+    font-family: 'Caveat Brush', cursive;
+}
+.parallax {
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-1{
+    /* The image used */
+    background-image: url('./IMG/parallax-beach.jpg');
+}
+.parallax-2{
+    background-image: url('./IMG/parallax-cliffs.jpg');
+}
+.parallax-3{
+    background-image: url('./IMG/parallax-tropics.jpg');
+}
+.parallax-4{
+    background-image: url('./IMG/parallax-flowers.jpg');
+}
+.parallax-5{
+    background-image: url('./IMG/parallax-palmtrees.jpg');
+}
+
+
+/* beginning of footer */
+
+.footer{
+    text-align: center;
+}
+h5{
+    font-family: 'Caveat Brush', cursive;
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+.socialMediaLinks a { 
+    font-size: 26px;  
+    margin: 0 10px 0 0; 
+    color: #000000; 
+    text-decoration: none; 
+    background: #b7b6b6;
+    padding: 15px;
+    width: 55px;
+    text-align: center;
+    border-radius: 50%;
+}
+.socialMediaLinks a.fa-twitter { 
+    color: #00aced;
+}
+.socialMediaLinks a.fa-facebook-f { 
+    color: #3b5998; 
+}
+.socialMediaLinks a.fa-pinterest { 
+    color: #C92228; 
+}
+.socialMediaLinks a.fa-instagram { 
+    color: #8a3ab9; 
+}
+.socialMediaLinks a.fa-google-plus-g { 
+    color: #d34836; 
+}
