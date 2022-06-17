@@ -1,15 +1,6 @@
 .nav-item{
     font-family: 'Caveat Brush', cursive;
 }
-.jumbo{
-    background-image: url('./IMG/jumbotronimg.jpg');
-    background-repeat: repeat;
-    background-size: 600px 400px;
-    font-family: 'Nothing You Could Do', cursive;
-    font-size: 70px;
-    letter-spacing: 3px;
-    height: 400px;
-}
 .btn{
     font-family: 'Caveat Brush', cursive;
 }
@@ -32,23 +23,6 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.parallax-1{
-    /* The image used */
-    background-image: url('./IMG/parallax-beach.jpg');
-}
-.parallax-2{
-    background-image: url('./IMG/parallax-cliffs.jpg');
-}
-.parallax-3{
-    background-image: url('./IMG/parallax-tropics.jpg');
-}
-.parallax-4{
-    background-image: url('./IMG/parallax-flowers.jpg');
-}
-.parallax-5{
-    background-image: url('./IMG/parallax-palmtrees.jpg');
-}
-
 
 /* beginning of footer */
 
