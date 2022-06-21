@@ -10,6 +10,9 @@
 body, html {
     height: 100%;
 } 
+.jumbo {
+    background-image: url('../IMG/jumbotronimg.jpg');
+}
 p{
     text-align: center;
     padding: 20px;
