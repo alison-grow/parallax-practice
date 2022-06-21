@@ -24,19 +24,19 @@ p{
     background-size: cover;
 }
 .parallax-1 {
-    background-image: url('/img/parallax-beach.jpg');
+    background-image: url('./img/parallax-beach.jpg');
 }
 .parallax-2 {
-    background-image: url('/img/parallax-cliffs.jpg');
+    background-image: url('./img/parallax-cliffs.jpg');
 }
 .parallax-3 {
-    background-image: url('/img/parallax-flowers.jpg');
+    background-image: url('./img/parallax-flowers.jpg');
 }
 .parallax-4 {
-    background-image: url('/img/parallax-palmtrees.jpg');
+    background-image: url('./img/parallax-palmtrees.jpg');
 }
 .parallax-5 {
-    background-image: url('/img/parallax-tropics.jpg');
+    background-image: url('./img/parallax-tropics.jpg');
 }
 
 /* beginning of footer */
